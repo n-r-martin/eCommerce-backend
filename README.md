@@ -33,8 +33,12 @@
   <br />
   <br />
 
+![Image showing testing of the API routes in Insomnia](./readmeAssets/insomnia-test-screengrab.png)
 
-  ![Image showing testing of the API routes in Insomnia](./readmeAssets/insomnia-test-screengrab.png)
+  ## Video Walkthrough
+ [Video Walkthrough](https://youtu.be/MKJaPC5kSYg)
+  <br />
+  <br />
 
   <a name="contribution"></a>
 
